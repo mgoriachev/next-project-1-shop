@@ -7,3 +7,5 @@ export { Header } from './header';
 export { SortPopup } from './sort-popup';
 export { Title } from './title';
 export { TopBar } from './top-bar';
+export { ProductCard } from './product-card';
+export { ProductsGroupList } from './products-group-list';

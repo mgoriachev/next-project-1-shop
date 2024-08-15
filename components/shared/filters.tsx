@@ -61,27 +61,75 @@ export const Filters: FC<Props> = ({ className }) => {
         items={[
           {
             text: 'Сырный соус',
-            value: '1',
+            value: '21',
           },
           {
             text: 'Моццарелла',
-            value: '2',
+            value: '22',
           },
           {
             text: 'Чеснок',
-            value: '3',
+            value: '32',
           },
           {
             text: 'Солённые огурчики',
-            value: '4',
+            value: '24',
           },
           {
             text: 'Красный лук',
-            value: '5',
+            value: '25',
           },
           {
             text: 'Томаты',
-            value: '6',
+            value: '62',
+          },
+          {
+            text: 'Сырный соус',
+            value: '7',
+          },
+          {
+            text: 'Моццарелла',
+            value: '8',
+          },
+          {
+            text: 'Чеснок',
+            value: '9',
+          },
+          {
+            text: 'Солённые огурчики',
+            value: '10',
+          },
+          {
+            text: 'Красный лук',
+            value: '11',
+          },
+          {
+            text: 'Томаты',
+            value: '12',
+          },
+          {
+            text: 'Сырный соус',
+            value: '13',
+          },
+          {
+            text: 'Моццарелла',
+            value: '14',
+          },
+          {
+            text: 'Чеснок',
+            value: '15',
+          },
+          {
+            text: 'Солённые огурчики',
+            value: '16',
+          },
+          {
+            text: 'Красный лук',
+            value: '17',
+          },
+          {
+            text: 'Томаты',
+            value: '18',
           },
         ]} />
     </div>
